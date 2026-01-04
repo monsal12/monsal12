@@ -34,21 +34,17 @@ My goal isn't just to write code, but to craft experiences—I'm constantly push
 
 ### My GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=monsal12&show_icons=true&locale=en&theme=tokyonight&count_private=true&hide_border=true" alt="monsal12's GitHub Stats" />
-</p>
+<div align="center">
+  
+![monsal12's Stats](https://github-readme-stats.vercel.app/api?username=monsal12&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=monsal12&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="Top Languages" />
-</p>
+![monsal12's Streak](https://github-readme-streak-stats.herokuapp.com/?user=monsal12&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=monsal12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+![monsal12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monsal12&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=monsal12&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=monsal12&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
