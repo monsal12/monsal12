@@ -35,14 +35,13 @@ My goal isn't just to write code, but to craft experiences—I'm constantly push
 ### My GitHub Stats:
 
 <div align="center">
-  
-![monsal12's Stats](https://github-readme-stats.vercel.app/api?username=monsal12&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-![monsal12's Streak](https://github-readme-streak-stats.herokuapp.com/?user=monsal12&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=monsal12&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![monsal12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monsal12&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=monsal12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monsal12&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=1800" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=monsal12&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=monsal12&theme=tokyo-night&hide_border=true&area=true" width="98%" />
 
 </div>
 
